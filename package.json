@@ -1,0 +1,35 @@
+{
+  "name": "jondotsoy",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "bin": "./bin/jondotsoy",
+  "scripts": {},
+  "keywords": [
+    "about me"
+  ],
+  "author": "Jonathan Delgado <hi@jon.soy> (https://jon.soy)",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^3.2.0",
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "mocha": "^6.1.4",
+    "np": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonDotsoy/me.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JonDotsoy/me/issues"
+  },
+  "homepage": "https://github.com/JonDotsoy/me#readme",
+  "description": ""
+}
