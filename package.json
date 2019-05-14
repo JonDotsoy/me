@@ -1,5 +1,6 @@
 {
   "name": "jondotsoy",
+  "description": "npm package with metadata about me.",
   "version": "1.0.2",
   "main": "./index.js",
   "bin": "./bin/jondotsoy",
@@ -30,6 +31,5 @@
   "bugs": {
     "url": "https://github.com/JonDotsoy/me/issues"
   },
-  "homepage": "https://github.com/JonDotsoy/me#readme",
-  "description": ""
+  "homepage": "https://github.com/JonDotsoy/me#readme"
 }
