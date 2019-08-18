@@ -5,7 +5,7 @@ npm package with metadata about me.
 ## How to use
 
 ```shell
-$ npm jondotsoy
+$ npx jondotsoy
 ```
 
 ```js
