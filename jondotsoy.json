@@ -1,0 +1,17 @@
+{
+  "$schema": "http://schemaorg.jon.soy/Person",
+  "name": "Jonathan Delgado",
+  "email": "hi@jon.soy",
+  "image": "https://s.gravatar.com/avatar/cf7c52fa5a933520a898fbb3ad67eecb?s=512",
+  "sameAs": "https://jon.soy",
+  "description": "Nodejs developer at @ReignDesign, I like developing with JavaScript And deploying with Docker.",
+  "address": "Santiago, Chile",
+  "knowsLanguage": [
+    "es",
+    "en"
+  ],
+  "publishingPrinciples": [
+    "https://github.com/jondotsoy",
+    "https://twitter.com/jondotsoy"
+  ]
+}
