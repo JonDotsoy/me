@@ -22,7 +22,7 @@ class CanvasBox {
       boxen(
         [
           chalk`{blue.bold ${profile.name}}`,
-          `${profile.description}`,
+          `${profile.description.toString().replace(/@\w+/, (e) => chalk`{green.italic ${e}}`)}`,
           ``,
           chalk`{green ${profile.email}} — {green ${profile.sameAs}}`,
           chalk` — {grey Github:} {green ${profiles.github || ''}}`,
