@@ -8,7 +8,8 @@
     "node": ">=16.6"
   },
   "scripts": {
-    "release": "np"
+    "release": "np",
+    "test": "mocha"
   },
   "keywords": [
     "about me"
